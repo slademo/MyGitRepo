@@ -5,5 +5,5 @@
   <p1>We Seek and we find</p1>
    <p2>We Seek and we find what we want</p2>
 </body>
-  console.log('hello')
+  console.log('hello');
      </html>
