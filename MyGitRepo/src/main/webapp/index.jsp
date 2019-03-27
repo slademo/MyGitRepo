@@ -1,3 +1,4 @@
+console.log('hello');
 <html>
 <body>
 <h2>Hello World! We are champions</h2>;
